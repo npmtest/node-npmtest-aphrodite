@@ -1,4 +1,7 @@
-# test coverage for  [aphrodite (v1.2.0)](https://github.com/Khan/aphrodite)  [![npm package](https://img.shields.io/npm/v/npmtest-aphrodite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-aphrodite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-aphrodite.svg)](https://travis-ci.org/npmtest/node-npmtest-aphrodite)
+# npmtest-aphrodite
+
+#### basic test coverage for  [aphrodite (v1.2.0)](https://github.com/Khan/aphrodite)  [![npm package](https://img.shields.io/npm/v/npmtest-aphrodite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-aphrodite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-aphrodite.svg)](https://travis-ci.org/npmtest/node-npmtest-aphrodite)
+
 #### Inline styles in JS that just work (TM)
 
 [![NPM](https://nodei.co/npm/aphrodite.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/aphrodite)
